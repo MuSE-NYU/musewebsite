@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Claude Code project-scoped MCP servers (machine-specific ports)
+.mcp.json
